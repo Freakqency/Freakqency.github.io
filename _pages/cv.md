@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: accolades
+permalink: /accolades/
 title: Accolades
 nav: true
 nav_order: 4
