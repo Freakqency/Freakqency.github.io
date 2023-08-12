@@ -1,25 +1,73 @@
 {
   "international": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "InCTF",
+      "date": "12-20-2018",
+      "awarder": "World Finalist",
+      "summary": "Successfully tackled diverse challenges in the fields of web exploitation, reverse engineering, and cryptography. Amidst the multitude of competing teams, only a select few were privileged to advance to the world finals."
+    },
+    {
+      "title": "Nullcon CTF",
+      "date": "02-12-2018",
+      "awarder": "World Finalist",
+      "summary": "Successfully tackled diverse challenges in the fields of web exploitation, reverse engineering, and cryptography. Amidst the multitude of competing teams, only a select few were privileged to advance to the world finals."
+    },
+    {
+      "title": "Global Conference on Cyber Space CTF",
+      "date": "11-20-2017",
+      "awarder": "World Finalist",
+      "summary": "Successfully tackled diverse challenges in the fields of web exploitation, reverse engineering, and cryptography. Amidst the multitude of competing teams, only a select few were privileged to advance to the world finals."
     }
   ],
   "national": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Smart India Hackathon",
+      "date": "07-08-2019",
+      "awarder": "Winner",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Smart India Hackathon",
+      "date": "06-18-2018",
+      "awarder": "Runner-up",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "university": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Technical Star of The Batch",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "awarder": "Kumaraguru College of Technology",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Dover Thinkofest",
+      "date": "1921-11-01",
+      "awarder": "Participation",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Dover Thinkofest",
+      "date": "1921-11-01",
+      "awarder": "Participation",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Futr",
+      "date": "1921-11-01",
+      "awarder": "Participation",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Super60",
+      "date": "1921-11-01",
+      "awarder": "",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Vice-president",
+      "date": "1921-11-01",
+      "awarder": "Computer Science & Engineering, Dept KCT",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ]
