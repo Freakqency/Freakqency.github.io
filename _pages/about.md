@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://rc.northeastern.edu'>Graduate Research Assistant @Northeastern University</a> <b>Previously:</b> <a href='https://www.motorolasolutions.com/'>Motorola Solutions </a> / <a href='https://summerofcode.withgoogle.com/archive/2019/projects/6537601547239424'> GSoC'19 </a> / <a href='https://www.forgeforward.in'> Forge </a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pro.HEIC
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a dedicated software engineer with an unwavering passion for crafting scalable, resilient, and high-performance software systems. My journey in the tech landscape has led me to collaborate with esteemed organizations like the NetBSD Foundation, Mozilla Firefox, Redare2, and Motorola Solutions, where I've honed my expertise in developing robust solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am on a dual quest for knowledge. Alongside pursuing my master's degree in Computer System Engineering, I am actively engaged as a Graduate Research Assistant at Northeastern University. In this role, I proudly oversee Northeastern's HPC cluster "Discovery," implementing automation scripts that streamline cluster management. My commitment to excellence resonates deeply as I seamlessly navigate between academia and practical application.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My passion for the art of software engineering is unwavering. From delving into the intricacies of kernel and device drivers to creating dynamic web applications, my skills span the entire spectrum. Beyond my software engineering prowess, I am fervently drawn to problem-solving. My time is devoted to platforms like CodeChef, Codeforces, and LeetCode, where I thrive on staying ahead of emerging algorithms and data structures.
+
+Competitiveness is ingrained in my approach. I enthusiastically participate in hackathons and capture the flag competitions, embracing each challenge as an opportunity to stretch my skills and emerge stronger.
