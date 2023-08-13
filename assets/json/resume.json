@@ -36,39 +36,39 @@
   "university": [
     {
       "title": "Technical Star of The Batch",
-      "date": "1921-11-01",
+      "date": "08-20-2020",
       "awarder": "Kumaraguru College of Technology",
       "summary": "Honored with the prestigious 'Technical Star of the Batch' accolade, accompanied by a noteworthy cash prize of RS 50,000, in recognition of exceptional technical accomplishments."
     },
     {
-      "title": "Dover Thinkofest Hackathon",
-      "date": "1921-11-01",
-      "awarder": "Participation",
-      "summary": ""
-    },
-    {
-      "title": "Dover Thinkofest Hackathon",
-      "date": "1921-11-01",
-      "awarder": "Participation",
-      "summary": ""
-    },
-    {
-      "title": "Futr",
-      "date": "1921-11-01",
-      "awarder": "Participation",
-      "summary": ""
+      "title": "Vice-president",
+      "date": "01-01-2019",
+      "awarder": "Computer Science & Engineering, Dept KCT",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
     {
       "title": "Super60",
-      "date": "1921-11-01",
+      "date": "10-10-2018",
       "awarder": "Kumaraguru College of Technology",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
     {
-      "title": "Vice-president",
-      "date": "1921-11-01",
-      "awarder": "Computer Science & Engineering, Dept KCT",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Futr",
+      "date": "09-26-2018",
+      "awarder": "Participation",
+      "summary": ""
+    },
+    {
+      "title": "Dover Thinkofest Hackathon",
+      "date": "10-27-2017",
+      "awarder": "Participation",
+      "summary": ""
+    },
+    {
+      "title": "Dover Thinkofest Hackathon",
+      "date": "09-22-2017",
+      "awarder": "Participation",
+      "summary": ""
     }
   ]
 }
